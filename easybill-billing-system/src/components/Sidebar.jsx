@@ -1,0 +1,1 @@
+export default function Sidebar(){return <div className='sidebar'><h2>EasyBill</h2><ul><li>Dashboard</li><li>Customers</li><li>Products</li><li>Invoices</li></ul></div>}

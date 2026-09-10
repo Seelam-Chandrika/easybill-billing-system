@@ -1,0 +1,1 @@
+export default function TopCustomers(){return <div className='section'>Top Customers</div>}

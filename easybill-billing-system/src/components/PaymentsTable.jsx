@@ -1,0 +1,1 @@
+export default function PaymentsTable(){return <div className='section'>Payments Table</div>}

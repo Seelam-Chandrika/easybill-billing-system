@@ -1,0 +1,1 @@
+export default function InvoiceStatus(){return <div className='section'>Invoice Status</div>}

@@ -1,0 +1,1 @@
+export default function Activities(){return <div className='section'>Activities</div>}

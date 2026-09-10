@@ -1,0 +1,1 @@
+export default function SalesChart(){return <div className='section'>Sales Chart Area</div>}

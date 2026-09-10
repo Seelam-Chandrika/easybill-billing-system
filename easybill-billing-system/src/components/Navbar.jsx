@@ -1,0 +1,1 @@
+export default function Navbar(){return <div className='navbar'>EasyBill Billing System</div>}

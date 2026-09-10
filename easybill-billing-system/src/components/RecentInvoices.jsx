@@ -1,0 +1,1 @@
+export default function RecentInvoices(){return <div className='section'>Recent Invoices</div>}

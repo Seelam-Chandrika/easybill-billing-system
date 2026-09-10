@@ -1,0 +1,1 @@
+export default function QuickActions(){return <div className='section'>Quick Actions</div>}
